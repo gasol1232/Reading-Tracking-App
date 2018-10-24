@@ -1,0 +1,32 @@
+{
+  "name": "Readign-tracking-app",
+  "version": "0.0.0",
+  "description": "book reading list app",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gasol1232/Reading-tracking-App"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-autosuggest": "^9.3.4",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "react-throttle": "^0.3.0",
+    "sort-by": "^1.2.0"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Cristihan Zuluaga",
+  "license": "MIT",
+  "homepage": "https://github.com/gasol1232/Reading-tracking-App.git#readme"
+}
